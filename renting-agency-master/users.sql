@@ -1,0 +1,25 @@
+exec CreateNewUser('2102', 35, 'navya.bhalla601@hotmail.com', 'iVgRV5IfLB', 'Navya Bhalla', 'H.No. 433', 'Khowangghat', 'Upper Subansiri', 'Arunachal Pradesh', 785676);
+exec CreateNewUser('2383', 31, 'hiran.shan576@gmail.com', 'JmTPSIAoCL', 'Hiran Shan', 'H.No. 819', 'Khalwa', 'Dewas', 'Madhya Pradesh', 450117);
+exec CreateNewUser('2026', 28, 'aarna.babu1529@hyderabad.bits-pilani.ac.in', 'vrjn9Wvgfy', 'Aarna Babu', 'H.No. 133', 'Mahendru', 'Sheikhpura', 'Bihar', 800006);
+exec CreateNewUser('3408', 56, 'dishani.ramachandran641@gmail.com', 'UDIh7yfJs1', 'Dishani Ramachandran', 'H.No. 838', 'Bara Tooti', 'Haridwar', 'Uttarakhand', 110006);
+exec CreateNewUser('3481', 54, 'aaina.choudhary493@gmail.com', 'cQoXsf2o3g', 'Aaina Choudhary', '94', 'Tlaingnuam', 'Mamit', 'Mizoram', 796015);
+exec CreateNewUser('3857', 58, 'zoya.virk1808@yahoo.com', 'kxwnQrS7RP', 'Zoya Virk', 'H.No. 265', 'Mahendru', 'Bhagalpur', 'Bihar', 800006);
+exec CreateNewUser('4187', 33, 'ranbir.brahmbhatt434@hyderabad.bits-pilani.ac.in', 'yr7OSJoRu1', 'Ranbir Brahmbhatt', '511', 'Ulubari', 'Lakhimpur', 'Assam', 781007);
+exec CreateNewUser('2131', 38, 'vaibhav.bava921@yahoo.com', 'en68K4TunP', 'Vaibhav Bava', 'H.No. 59', 'Hetimpur', 'Sivaganga', 'Tamil Nadu', 274206);
+exec CreateNewUser('4633', 47, 'prerak.swamy392@yahoo.com', 'ipVJIqVLB5', 'Prerak Swamy', 'H.No. 781', 'Dasna Gate', 'Hapur (Panchsheel Nagar)', 'Uttar Pradesh', 201009);
+exec CreateNewUser('3482', 32, 'uthkarsh.baral383@hyderabad.bits-pilani.ac.in', 'fWd3hjOkYR', 'Uthkarsh Baral', '49/59', 'Bara Tooti', 'Sundargarh', 'Odisha', 110006);
+exec CreateNewUser('2260', 42, 'kartik.sarraf881@hyderabad.bits-pilani.ac.in', 'HqJ38aRUhR', 'Kartik Sarraf', 'H.No. 034', 'Bara Tooti', 'Suryapet', 'Telangana', 110006);
+exec CreateNewUser('4625', 39, 'dhanush.varma328@yahoo.com', 'BkDa9U4UqG', 'Dhanush Varma', '164', 'Dundahera', 'Palwal', 'Haryana', 122016);
+exec CreateNewUser('2435', 58, 'amani.ravi711@hotmail.com', 'jxWkI9X7H6', 'Amani Ravi', 'H.No. 25', 'Langar House', 'Anantapur', 'Andhra Pradesh', 500008);
+exec CreateNewUser('3327', 49, 'sumer.cheema139@gmail.com', '7x41Ztpdp4', 'Sumer Cheema', '41/928', 'Dasna Gate', 'Budaun', 'Uttar Pradesh', 201009);
+exec CreateNewUser('2350', 49, 'samiha.das1771@gmail.com', 'WIXiiQE8Jk', 'Samiha Das', '764', 'Khalwa', 'Alirajpur', 'Madhya Pradesh', 450117);
+exec CreateNewUser('4484', 45, 'navya.sankaran533@hotmail.com', 'TtzQPxC5HC', 'Navya Sankaran', '35/03', 'Raipur Karchulian', 'Koriya', 'Chattisgarh', 486114);
+exec CreateNewUser('2920', 22, 'arhaan.swaminathan792@gmail.com', 'LJoLoaeTOd', 'Arhaan Swaminathan', 'H.No. 64', 'Agaram', 'Chikkamagaluru', 'Karnataka', 560007);
+exec CreateNewUser('2128', 39, 'chirag.cherian245@hotmail.com', 'rQFnIiU74K', 'Chirag Cherian', '53/76', 'Dasna Gate', 'Firozabad', 'Uttar Pradesh', 201009);
+exec CreateNewUser('2995', 48, 'nayantara.karnik1753@hyderabad.bits-pilani.ac.in', 'mggQBwBAD3', 'Nayantara Karnik', '423', 'Ulubari', 'Karimganj', 'Assam', 781007);
+exec CreateNewUser('4676', 59, 'shanaya.mand301@gmail.com', 'zUvZ3gpmmI', 'Shanaya Mand', '49/69', 'Akbarpur', 'Banswara', 'Rajasthan', 301031);
+
+INSERT INTO ADMIN VALUES('3408');
+INSERT INTO MANAGER VALUES('3408');
+INSERT INTO MANAGER VALUES('3481');
+INSERT INTO MANAGER VALUES('3327');
