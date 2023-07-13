@@ -1,6 +1,6 @@
 # Renting-Agency-DBMS-proj-
 
-# Random User and City Database
+## Random User and City Database
 
 This project involves the creation of a database that generates random user and city details using Python. The database includes a relational schema design and an ER (Entity-Relationship) model. The project also implements user management with separate privileges, along with procedures for adding, deleting, and updating property records based on these privileges. Additionally, procedures are included to generate a report on the rent history of a property and to check the available properties for rent within a given city, locality, or price range.
 
